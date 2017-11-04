@@ -1,0 +1,12 @@
+server:
+  port: 8889
+
+
+
+
+
+
+
+logging:
+  level:
+    org.springframework.security: DEBUG
